@@ -1,0 +1,11 @@
+{
+  "name": "google-fonts-lib",
+  "version": "1.0.0",
+  "description": "Google-fonts-lib is simple command-line API to save fonts at the CWD either for offline use or for online use.",
+  "main": "index.js",
+  "bin":{
+    "gf":"./index"
+  },
+  "author": "Micheal Wheeler",
+  "license": "MIT"
+}
