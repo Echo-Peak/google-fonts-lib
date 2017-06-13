@@ -6,6 +6,9 @@
   "bin":{
     "gf":"./index"
   },
+  "scripts":{
+    "packager-leave-identity":"echo 83"
+  },
   "author": "Micheal Wheeler",
   "license": "MIT",
   "dependencies":{
